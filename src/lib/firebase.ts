@@ -1,5 +1,5 @@
-import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore } from 'firebase/firestore';
+import { initializeApp, getApps } from "firebase/app";
+import { getFirestore } from "firebase/firestore";
 
 // 💡 [과제 2] 프로젝트 루트의 .env.local 파일을 만들고
 //    Firebase Console → 프로젝트 설정 → 내 앱 → SDK 설정 및 구성 값을 채워 넣으세요.
